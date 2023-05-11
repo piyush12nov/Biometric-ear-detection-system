@@ -1,4 +1,4 @@
-# Biometric
+# Ear Detection system
 Biometric ear recognition is a method of identifying individuals based on the unique features of their ears. This technology is becoming increasingly popular due to its high accuracy and convenience. Biometric ear recognition systems use special algorithms to analyze the shape, size, and features of an individual's ear, and then compare that information to a database of known earprints to identify a match.
 
 One of the advantages of biometric ear recognition is that it is a non-intrusive method of identification, meaning that it does not require physical contact with the individual being identified. This makes it more hygienic and less invasive than other biometric identification methods such as fingerprinting or iris scanning.
